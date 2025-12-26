@@ -48,7 +48,7 @@ Scientific-Calculator/
 ```
 ---
 
-## How to Run the Project
+## ▶️ How to Run the Project
 
 ### Run Console-Based Calculator
 ```bash
@@ -61,7 +61,7 @@ python Tkinter Scientific Calculator Code.ipynb
 - Ensure Python 3 is installed on your system before running the files.
 ---
 
-### Team Members
+## 👥 Team Members
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
 | Chris Thomas Abraham | Developer & Designer | [@ChrisToms14](https://github.com/ChrisToms14) | [Chris Thomas Abraham](https://www.linkedin.com/in/ChrisThomasAbraham) |
